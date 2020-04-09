@@ -3,3 +3,4 @@ This is very simple game. You just need to guess the player name (only 8 attempt
 He is the first batsman to score 10000 international runs in International Cricket History.
 that's enough..
 You can do it...
+#Don't look at code first..
