@@ -11,7 +11,6 @@ public class hangman {
         for (int j = 0; j < x; j++) {
             ch2[j] = '_';
         }
-
         while (!Arrays.equals(ch1, ch2) && c > 0) {
             System.out.println("guess any letter from alaphabet");
             char sb1 = sc.next().charAt(0);
