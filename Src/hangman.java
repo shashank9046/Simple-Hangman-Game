@@ -29,7 +29,6 @@ public class hangman {
                         System.out.println(" keep going");
                         for (int k = 0; k < x; k++) {
                             System.out.print(ch2[k] + " ");
-
                         }
                         System.out.println(" ");
                     }
