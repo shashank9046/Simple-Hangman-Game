@@ -38,7 +38,6 @@ public class hangman {
             }
             if (!Arrays.equals(ch1, ch2) && c < 8 && c > 0) {
                 System.out.println(c + " attempts left go for it you can ");
-
             }
         }
 
