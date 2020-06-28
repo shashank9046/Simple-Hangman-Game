@@ -40,7 +40,6 @@ public class hangman {
                 System.out.println(c + " attempts left go for it you can ");
             }
         }
-
         if (Arrays.equals(ch1, ch2)) {
             System.out.println(" congratulations you have found the secret word you won ");
         } else {
